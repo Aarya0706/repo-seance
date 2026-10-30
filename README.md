@@ -12,6 +12,8 @@ An internet connection is required initially to install Ollama and download mode
 
 The application has no third-party Python runtime dependencies and uses Python's standard library.
 
+![Repo Séance Demo](assets/repo-seance-demo.gif)
+
 
 ## 🎬 Demo
 
