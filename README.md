@@ -12,6 +12,22 @@ An internet connection is required initially to install Ollama and download mode
 
 The application has no third-party Python runtime dependencies and uses Python's standard library.
 
+
+## 🎬 Demo
+
+See Repo Séance bring forgotten Git history back to life!
+
+[▶️ Watch the Repo Séance Demo](https://drive.google.com/file/d/1rpNZSJbMA6R2OspKVyAzC9m_SgnKWGBa/view?usp=sharing)
+
+The demo showcases all three modes:
+
+- 👻 **Haunt:** Turns deleted files and abandoned branches into eerie AI-generated stories.
+- 🌼 **Ofrenda:** Remembers contributors and celebrates their forgotten work.
+- 🔥 **Exorcise:** Generates cleanup recommendations with grounding verification.
+
+Powered by Qwen 2.5 3B running locally through Ollama.
+
+
 ```text
   †  THE SEANCE BEGINS  †
   repo: haunted
